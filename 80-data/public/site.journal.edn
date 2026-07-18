@@ -1,0 +1,5 @@
+[["chubb-site-1" :site/url "https://www.chubb.com" 1 :add]
+ ["chubb-site-1" :site/checked-at "2026-07-18" 1 :add]
+ ["chubb-site-1" :site/http-status 200 1 :add]
+ ["chubb-site-1" :site/title "トップページ | Chubb" 1 :add]
+ ["chubb-site-1" :site/description "トップページ | Chubb" 1 :add]]
